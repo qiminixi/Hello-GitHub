@@ -1,0 +1,17 @@
+#pragma once
+
+//ViewerDlg
+#define UM_VIEWERCLOSE						WM_USER+101//Viewer关闭，通知父窗口清除对象
+#define UM_VIEWER_SETTINGS					WM_USER+102//打开设置对话框
+#define UM_VIEWER_PREVIEW_SETTING			WM_USER+103//预览设置
+#define UM_VIEWER_UPDATE_PROGRESS			WM_USER+104//更新进度显示
+#define UM_VIEWER_BOOKMARK_ADD				WM_USER+105//添加到书签
+#define UM_VIEWER_BOOKMARK_MANAGE			WM_USER+106//管理书签
+#define UM_VIEWER_JUMPTO_BOOKMARK			WM_USER+107//跳转至书签位置
+
+#define FILE_BLOCK_SIZE 404800//10240 //单位byte
+#define FILE_BLOCK_REMAIN_SIZE 10//保留上一个块的字符数
+
+#define UM_READER_PREVIEW_SETTING			WM_USER+20//预览设置
+#define UM_READER_TIP_BLOCKINFO_SHOW		WM_USER+21//显示TIP
+#define UM_READER_TIP_BLOCKINFO_CLOSE		WM_USER+22//取消TIP
