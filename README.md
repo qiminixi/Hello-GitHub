@@ -10,4 +10,4 @@ Main window, novels list showed.
 View window  
 ![screenshot](https://github.com/qiminixi/MFC_TextReader/blob/master/Reader/release/screenshot2.png)
 
-If you want to run the application on your computer, please download all the file in `release folder' except screenshot.png.  
+If you want to run the application on your computer, please download all the file in `release folder` except screenshot.png.  
