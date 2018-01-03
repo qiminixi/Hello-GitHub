@@ -7,10 +7,10 @@
 * （3）支持大文件，会分块读取文件进行显示。  
 
 
-
-截图如下：
+ 
+截图如下：  
 ![screenshot](https://github.com/qiminixi/MFC_TextReader/blob/master/Reader/release/screenshot1.png)
-
+ 
 View window  
 ![screenshot](https://github.com/qiminixi/MFC_TextReader/blob/master/Reader/release/screenshot2.png)
 
